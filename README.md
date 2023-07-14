@@ -47,6 +47,8 @@ The Information Security project focuses on implementing key measures to enhance
 <br/>
 
 <br/>![Screenshot (137)](https://github.com/Radel024/Fundamentals-of-Information-Security-/assets/137848295/e8d746a7-5d09-4fd6-8adb-bf6e0388eba0)
+[BYOD Security Policy Michael Radel.docx](https://github.com/Radel024/Fundamentals-of-Information-Security-/files/12045392/BYOD.Security.Policy.Michael.Radel.docx)
+
 <br/>
 
 <br/>![Screenshot (138)](https://github.com/Radel024/Fundamentals-of-Information-Security-/assets/137848295/13aaa967-324e-44b4-bfdb-6ae804da1173)
