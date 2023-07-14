@@ -1,6 +1,5 @@
 # Fundamentals-of-Information-Security-
 Enhance Security Measures
-# IT-Fundementals
 
 <h2>Description</h2>
 The Information Security project focuses on implementing key measures to enhance security. It includes asymmetric key encryption, stateful firewalls, security policies, multi-factor authentication, and vulnerability scanning. These measures aim to ensure secure communication, control network access, establish guidelines, verify user identities, and identify vulnerabilities for timely remediation.
