@@ -9,13 +9,15 @@ The Information Security project focuses on implementing key measures to enhance
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-
-
+- <b>Nmap<b/> 
+- <b>Netcat<b/> 
+- <b>Nessus<b/>
+- <b>MFA via google<b/>
+- 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
-- <b>PyCharm</b> 
+- <b>Kali Linux</b> 
+- <b>Virtual Machiene</b> 
 
 <h2>Program walk-through:</h2>
 
