@@ -13,7 +13,7 @@ The Information Security project focuses on implementing key measures to enhance
 - <b>Netcat<b/> 
 - <b>Nessus<b/>
 - <b>MFA via google<b/>
-- 
+  
 <h2>Environments Used </h2>
 
 - <b>Kali Linux</b> 
